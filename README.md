@@ -2,5 +2,6 @@
 
 <h3>Deploy com Django</h3>
 <ul>
-  <li><strong>pip freeze requirements.txt</strong> === atualiza as dependencias necessarias no arquivo requirements.txt</li>
+  <li><strong>pip freeze requirements.txt</strong> === atualiza as dependencias necessarias no arquivo requirements.txt;</li>
+   <li><strong>ALLOWED_HOSTS = ['*']</strong> === no arquivo settings.py é necessario definr esta configuracao;</li>
 </ul>
