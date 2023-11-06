@@ -10,3 +10,9 @@
   <li><strong>pip install -r requirement.txt</strong> === trazendo todas as bilbiotecas para rodar o projeto;</li>
   <li><strong>é preciso liberar a porta no EC2 da AWS por exemplo</strong></li>
 </ul>
+
+<h4>Aplicacao rodando em segundo plano no Linux Ubuntu - <strong>API-com-Django-Validacoes-buscas-filtros-e-deploy - repositorio original )</strong>strong></h4>
+<ul>
+  <li><strong>screen -list</strong> === lista as sessoes executadas em segundo plano;</li>
+   <li><strong>screen -S nomeDoApp</strong> === prepara o ambiente para ficar sendo executado em segundo plano, após esse comando dentro da pasta onde esta o app, coloca-se o serviço para rodar, neste exemplo python3 manage ;</li>
+</ul>
